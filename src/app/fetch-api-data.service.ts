@@ -250,6 +250,7 @@ export class FetchApiDataService {
       );
   }
 
+
   /**
    * extracts response data from HTTP response
    * @param res 

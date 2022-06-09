@@ -187,7 +187,7 @@ npm install typedoc
 
 3. Run typedoc to create documentation:
 ```bash
-typedoc --entryPointStrategy expand ./src
+npx typedoc --entryPointStrategy expand ./src
 ```
 
 
